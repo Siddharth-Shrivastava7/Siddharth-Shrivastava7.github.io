@@ -12,6 +12,7 @@ tags:
 
 I believe in a bottom-up learning strategy, in which we have strong foundations before diving deep into the Top (Research). However, while in the research, it is also helpful to refresh the foundations for better performance. Thus, the Foundations of any field play a crucial role in deciding the height of our research in that field.
 <!--more-->
+
 Below is the collection of Machine Learning Basics, Maths, and Programming resources for building solid foundations in Machine Learning. I have divided Foundation learning into two phases: one "Preliminary Learning (PL)" should be completed before going into research, while the other "Continuous Learning Stage (CLS) " can be done parallel to research (you change according to your wish if required)
 
   1. Preliminary Learning (PL)

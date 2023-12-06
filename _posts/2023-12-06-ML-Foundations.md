@@ -49,7 +49,7 @@ Below is the collection of Machine Learning Basics, Maths, and Programming resou
 - **[CLS]** [Brilliant (Optimisation section)](https://brilliant.org/courses/#/math/advanced-mathematics)
 - [Essence of calculus (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-## Programming 
+# Programming 
 
 - [DS Handbook (available in android as well)](https://www.thedshandbook.com)
 - [DSA GFG Videos](https://www.geeksforgeeks.org/courses/dsa-self-paced)

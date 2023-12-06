@@ -1,12 +1,13 @@
 ---
-title: 'Counting Words in a Snap'
-date: 2020-01-05
+title: 'ML Foundations'
+date: 2023-12-06
 permalink: /posts/2020/01/counting-words/
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - grading
-  - bash
+  - Machine Learning
+  - Maths 
+  - Programming
 ---
 
 14 pt periods. 1.05" margins. 2.1 spaced lines. [Times Newer Roman](https://timesnewerroman.com/). I've seen them all, and I'm tired of trying to catch them. So, I've stopped assigning papers in terms of page length and switched to word counts. Unfortunately, counting words is more time-intensive than counting pages.

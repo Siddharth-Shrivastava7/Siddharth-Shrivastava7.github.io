@@ -1,3 +1,7 @@
+---
+permalink: /teaching/
+title: "Teaching"
+---
 
 | Course instructor | Prof. P.N. Karthik |
 | --- | --- |

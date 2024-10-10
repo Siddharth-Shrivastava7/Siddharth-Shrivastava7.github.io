@@ -11,6 +11,9 @@ title: "Teaching"
 ## Notes 
 These notes I made to help myself organize the content I would teach every three alternate weeks are linked below. I am the only author of these notes; therefore, they could not be entirely accurate. Hence, there's no assurance that the notes are error-free. However, I make every effort to ensure that there are no errors in the notes. If you discover any errors, whether logical, conceptual, or otherwise, please email me. I will review the feedback and make necessary corrections, updating the notes accordingly.
 
+- [Tutorial 1: Functions, Cardinality and Countability](files/pdf/Tutorial_Session1_functions_and_cardinality_countability.pdf)
+- [Tutorial 2: Transformation of Random Variables](files/pdf/Tutorial Session_2- Transformation of Random Variables.pdf)
+
 
 
 

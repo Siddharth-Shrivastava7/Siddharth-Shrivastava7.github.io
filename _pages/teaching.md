@@ -3,10 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-| Course instructor | Prof. P.N. Karthik |
+| Course instructor | [Prof. P.N. Karthik](https://karthikpn.com) |
 | --- | --- |
-| Course | Probability and Stochastic Processes | 
-| Course website | https://karthikpn.com/#/teaching/Probability-2024 |
+| Course | [Probability and Stochastic Processes](https://karthikpn.com/#/teaching/Probability-2024) | 
 | Term | 	Jul-Nov 2024 |
 
 ## Notes 

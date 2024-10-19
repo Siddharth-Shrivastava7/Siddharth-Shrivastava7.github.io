@@ -24,6 +24,10 @@ Below is the collection of Machine Learning Basics, Maths, and Programming resou
 - [CS229 ML (Stanford, Spring'22)](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=J-Sgd9StGJfhnuI7)
 - [CS231n CNN for CV (Stanford, notes)](https://cs231n.github.io)
 
+# ML course at IITH 
+
+ [AI5000 (FOML/PRML) - Resources](https://docs.google.com/document/d/1qjbfVfL_BxGlN-kpMN4ZRBfz6Ic7Bo4essUewTodDos/edit?usp=sharing)
+
 # Maths 
 
 ## Probability and Statistics 

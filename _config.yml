@@ -85,9 +85,9 @@ analytics:
 # Site Author
 author:
   name             : "Siddharth Shrivastava"
-  avatar           : "pic_profile.jpg"
-  bio              : "PhD Student at IITH"
-  location         : "Pendra,Chhattisgarh,India"
+  avatar           : "profile_photo_2.JPG"
+  bio              : "PhD in AI at IIT Hyderabad"
+  location         : "Bilaspur,Chhattisgarh,India"
   employer         :
   pubmed           :
   orcid            : #"http://orcid.org/0000-0001-9259-3883"
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/siddharth-shrivastava-/"
   mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :

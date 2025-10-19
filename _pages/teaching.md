@@ -23,12 +23,13 @@ These notes were prepared to help me organize the content I taught in the Probab
 ---
 ## Sessions 
 
-Below are the Google Colab files, with reference to a session which I conducted for [Artificial Intelligence And
-Emerging Technologies (AIET)](https://talentsprint.com/course/artificial-intelligence-iit-hyderabad) course
+* Google Colab files related to the session conducted for [Artificial Intelligence And
+Emerging Technologies (AIET)](https://talentsprint.com/course/artificial-intelligence-iit-hyderabad) course:
 
-- [VAE_Tutorial](https://colab.research.google.com/drive/1y9kd5rNufOa9iR3sQBb5PWoPULK-jLdI?usp=sharing)
-- [GAN Tutorial](https://colab.research.google.com/drive/1UTf2uzHgBg2no4LVFaf3O9l_EXmU9Hjl?usp=sharing)
+  * [VAE_Tutorial](https://colab.research.google.com/drive/1y9kd5rNufOa9iR3sQBb5PWoPULK-jLdI?usp=sharing)
+  * [GAN Tutorial](https://colab.research.google.com/drive/1UTf2uzHgBg2no4LVFaf3O9l_EXmU9Hjl?usp=sharing)
 
-
-
-
+* Presentation slides for the “Generative AI Workshop” conducted in collaboration with Arkaprava, Sandesh, and Swarnim at IIT Hyderabad:
+  * [Generative_AI_workshop_preview](https://drive.google.com/file/d/1i-Fx38FhAGpeWbb7dgOzj2xQjirDGCul/view?usp=sharing)
+  * [Primer on Generative AI](https://drive.google.com/file/d/1M0ajIMdpAqziDLn12Oyt0unSv6cfiWQa/view?usp=sharing)
+  * [Generative Adversarial Networks (GANs)](https://drive.google.com/file/d/1fhoeEnoqiaQL3GkUI5LJOf-CaZr4i-uc/view?usp=sharing)

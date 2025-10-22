@@ -35,3 +35,4 @@ Emerging Technologies (AIET)](https://talentsprint.com/course/artificial-intelli
   * [Generative Adversarial Networks (GANs)](https://drive.google.com/file/d/1fhoeEnoqiaQL3GkUI5LJOf-CaZr4i-uc/view?usp=sharing)
   * [Transformers](https://drive.google.com/file/d/1ThBKIKeISmCEzvupq7fOK_2qX26cp2xz/view?usp=sharing)
   * [Variational Autoencoders](https://drive.google.com/file/d/1HhVZnif3ZwimbdofOYXsIKKtmgRTHqCK/view?usp=sharing)
+  * [Diffusion Models](https://drive.google.com/file/d/1qjONwtn-n9slx1yYHb8ufLvUpV9g73vP/view?usp=sharing)

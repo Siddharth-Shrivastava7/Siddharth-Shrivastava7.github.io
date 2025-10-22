@@ -33,3 +33,5 @@ Emerging Technologies (AIET)](https://talentsprint.com/course/artificial-intelli
   * [Generative_AI_workshop_preview](https://drive.google.com/file/d/1i-Fx38FhAGpeWbb7dgOzj2xQjirDGCul/view?usp=sharing)
   * [Primer on Generative AI](https://drive.google.com/file/d/1M0ajIMdpAqziDLn12Oyt0unSv6cfiWQa/view?usp=sharing)
   * [Generative Adversarial Networks (GANs)](https://drive.google.com/file/d/1fhoeEnoqiaQL3GkUI5LJOf-CaZr4i-uc/view?usp=sharing)
+  * [Transformers](https://drive.google.com/file/d/1ThBKIKeISmCEzvupq7fOK_2qX26cp2xz/view?usp=sharing)
+  * [Variational Autoencoders](https://drive.google.com/file/d/1HhVZnif3ZwimbdofOYXsIKKtmgRTHqCK/view?usp=sharing)

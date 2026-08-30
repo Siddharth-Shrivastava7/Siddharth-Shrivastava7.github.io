@@ -13,7 +13,7 @@ title: "Teaching"
 | Jan–May 2025 | [Deep Learning](https://krmopuri.github.io/dl25/) | [Dr. Konda Reddy](https://krmopuri.github.io/) |
 | Aug–Dec 2025 | [Statistical Learning Theory](https://people.iith.ac.in/shashankvatedka/html/courses/2025/EE6327/course_details.html) | [Dr. Shashank Vatedka ](https://people.iith.ac.in/shashankvatedka/html/home.html) |
 | Jan–May 2026 | AI for Humanity | [Dr. Ganesh Ghalme ](https://sites.google.com/view/ganeshghalme/home) |
-| Aug–Dec 2026 | [Game Theory](https://sites.google.com/ai.iith.ac.in/ai5040gtmd/home) | [Dr. Gogulapati Sreedurga and Dr. Ganesh Ghalme ](https://sites.google.com/view/ganeshghalme/home) |
+| Aug–Dec 2026 | [Game Theory](https://sites.google.com/ai.iith.ac.in/ai5040gtmd/home) | [Dr. Gogulapati Sreedurga](https://gsreedurga.wixsite.com/mysite) and  [Dr. Ganesh Ghalme ](https://sites.google.com/view/ganeshghalme/home) |
 
 ---
 ## Notes 

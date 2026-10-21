@@ -115,6 +115,13 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
       {% endif %}
+      {% if author.alphaxiv %}
+        <li>
+          <a href="{{ author.alphaxiv }}" target="_blank" rel="noopener">
+            <img src="{{ '/images/alphaxiv-logo.png' | relative_url }}" alt="" style="height:1em; width:1.25em; vertical-align:-0.125em; object-fit:contain;"> AlphaXiv
+          </a>
+        </li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>PubMed</a></li>
       {% endif %}

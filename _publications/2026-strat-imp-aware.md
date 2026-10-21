@@ -6,6 +6,5 @@ date: 2026-06-30
 paperurl: '/files/pdf/research/Linear Strategic Classification with Endogenous Improvements_Arxiv_v2.pdf'
 link: 'https://arxiv.org/abs/2606.01198'
 github: 'https://github.com/Siddharth-Shrivastava7/Linear-Strategic-Classification-with-Endogenous-Improvements'
-alphaxiv: 'https://www.alphaxiv.org/pdf/2606.01198'
 citation: 'Shrivastava, S., Akshintala, M., Reddy, B., Manwani, N., Gujar, S., & Ghalme, G. (2026). Linear Strategic Classification with Endogenous Improvements. arXiv preprint arXiv:2606.01198.'
 ---

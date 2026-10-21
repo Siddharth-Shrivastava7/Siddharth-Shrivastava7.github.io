@@ -73,6 +73,9 @@
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
       </p>
+      {% if post.alphaxiv %}
+        <a href="{{ post.alphaxiv }}" target="_blank" rel="noopener" title="alphaXiv"><img src="{{ '/images/alphaxiv-logov2.png' | relative_url }}" alt="alphaXiv" style="height:1.3em; width:1.3em; object-fit:contain; vertical-align:-0.2em; margin-left:0.5em;"></a>
+      {% endif %}
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
